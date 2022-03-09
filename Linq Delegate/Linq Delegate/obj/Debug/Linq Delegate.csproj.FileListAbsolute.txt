@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\bin\Debug\Linq Delegate.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\bin\Debug\Linq Delegate.exe
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\bin\Debug\Linq Delegate.pdb
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\obj\Debug\Linq Delegate.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\obj\Debug\Linq Delegate.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\obj\Debug\Linq Delegate.exe
+C:\Users\saika\source\repos\Linq\Linq\Linq Delegate\Linq Delegate\obj\Debug\Linq Delegate.pdb
