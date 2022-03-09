@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\Delegate4\Delegate4\bin\Debug\Delegate4.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Delegate4\Delegate4\bin\Debug\Delegate4.exe
+C:\Users\saika\source\repos\Linq\Linq\Delegate4\Delegate4\bin\Debug\Delegate4.pdb
+C:\Users\saika\source\repos\Linq\Linq\Delegate4\Delegate4\obj\Debug\Delegate4.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Delegate4\Delegate4\obj\Debug\Delegate4.exe
+C:\Users\saika\source\repos\Linq\Linq\Delegate4\Delegate4\obj\Debug\Delegate4.pdb
