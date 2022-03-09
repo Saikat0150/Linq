@@ -17,12 +17,19 @@ namespace Select
 			new Student() { StudentID = 4, StudentName = "Ram" , Age = 20 } ,
 			new Student() { StudentID = 5, StudentName = "Ron" , Age = 15 }
 		};
-
+			//------Select Query Syntax
 			// returns collection of anonymous objects with Name and Age property
-			var selectResult = from s in studentList
+			/*var selectResult = from s in studentList
 							   select new { Name = "Mr. " + s.StudentName, Age = s.Age };
 
 			// iterate selectResult
+			foreach (var item in selectResult)
+				Console.WriteLine("Student Name: {0}, Age: {1}", item.Name, item.Age);
+			Console.Read();*/
+
+			//-------Select Method Syntax
+			var selectResult = studentList.Select(s => new { Name = s.StudentName, Age = s.Age });
+
 			foreach (var item in selectResult)
 				Console.WriteLine("Student Name: {0}, Age: {1}", item.Name, item.Age);
 			Console.Read();
