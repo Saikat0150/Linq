@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\bin\Debug\Select.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\bin\Debug\Select.exe
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\bin\Debug\Select.pdb
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\obj\Debug\Select.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\obj\Debug\Select.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\obj\Debug\Select.exe
+C:\Users\saika\source\repos\Linq\Linq\Select\Select\obj\Debug\Select.pdb
