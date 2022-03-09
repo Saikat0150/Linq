@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\bin\Debug\Grouping using lookup.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\bin\Debug\Grouping using lookup.exe
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\bin\Debug\Grouping using lookup.pdb
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\obj\Debug\Grouping using lookup.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\obj\Debug\Grouping using lookup.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\obj\Debug\Grouping using lookup.exe
+C:\Users\saika\source\repos\Linq\Linq\Grouping using lookup\Grouping using lookup\obj\Debug\Grouping using lookup.pdb
