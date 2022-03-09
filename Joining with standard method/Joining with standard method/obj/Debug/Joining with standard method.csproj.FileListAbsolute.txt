@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\bin\Debug\Joining with standard method.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\bin\Debug\Joining with standard method.exe
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\bin\Debug\Joining with standard method.pdb
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\obj\Debug\Joining with standard method.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\obj\Debug\Joining with standard method.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\obj\Debug\Joining with standard method.exe
+C:\Users\saika\source\repos\Linq\Linq\Joining with standard method\Joining with standard method\obj\Debug\Joining with standard method.pdb
