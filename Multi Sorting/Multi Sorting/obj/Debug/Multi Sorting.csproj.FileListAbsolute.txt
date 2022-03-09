@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\Multi Sorting\Multi Sorting\bin\Debug\Multi Sorting.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Multi Sorting\Multi Sorting\bin\Debug\Multi Sorting.exe
+C:\Users\saika\source\repos\Linq\Linq\Multi Sorting\Multi Sorting\bin\Debug\Multi Sorting.pdb
+C:\Users\saika\source\repos\Linq\Linq\Multi Sorting\Multi Sorting\obj\Debug\Multi Sorting.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Multi Sorting\Multi Sorting\obj\Debug\Multi Sorting.exe
+C:\Users\saika\source\repos\Linq\Linq\Multi Sorting\Multi Sorting\obj\Debug\Multi Sorting.pdb
