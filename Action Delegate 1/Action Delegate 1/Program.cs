@@ -15,7 +15,6 @@ namespace Action_Delegate_1
 			Action<Student> PrintStudentDetail = s => Console.WriteLine("Name: {0}, Age: {1} ", s.Name, s.Age);
 
 			Student std = new Student() { Name = "Bill", Age = 21 };
-
 			PrintStudentDetail(std);
 
 			Console.Read();
