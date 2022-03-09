@@ -24,16 +24,25 @@ namespace Joining_with_standard_method
                 new Standard(){ StandardId=2,StandardName="StandardId 2"},
                 new Standard(){ StandardId=3,StandardName="StandardId 3"}
             };
-            var innerJoin = studentlist.Join(
-                                             standardlist,
-                                                        student => student.StandardId,
-                                                        standard => standard.StandardId,
-                                                        (student, standard) => new
-                                                        {
-                                                            StudentName = student.StudentName,
-                                                            StandardName = standard.StandardName
-                                                        }
-                                                        );
+            //var innerJoin = studentlist.Join(
+            //                                 standardlist,
+            //                                            student => student.StandardId,
+            //                                            standard => standard.StandardId,
+            //                                            (student, standard) => new
+            //                                            {
+            //                                                StudentName = student.StudentName,
+            //                                                StandardName = standard.StandardName
+            //                                            }
+            //                                            );
+
+            //or
+            var innerJoin = from s in studentlist
+                            join st in standardlist on s.StandardId equals st.StandardId
+                            select new
+                            {
+                                StudentName = s.StudentName,
+                                StandardName = st.StandardName
+                            };
             foreach(var obj in innerJoin)
             {
                 Console.WriteLine(obj.StudentName + " - " + obj.StandardName);
