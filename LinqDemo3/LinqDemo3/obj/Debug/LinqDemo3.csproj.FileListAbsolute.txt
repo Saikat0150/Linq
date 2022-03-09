@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\LinqDemo3\LinqDemo3\bin\Debug\LinqDemo3.exe.config
+C:\Users\saika\source\repos\Linq\Linq\LinqDemo3\LinqDemo3\bin\Debug\LinqDemo3.exe
+C:\Users\saika\source\repos\Linq\Linq\LinqDemo3\LinqDemo3\bin\Debug\LinqDemo3.pdb
+C:\Users\saika\source\repos\Linq\Linq\LinqDemo3\LinqDemo3\obj\Debug\LinqDemo3.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\LinqDemo3\LinqDemo3\obj\Debug\LinqDemo3.exe
+C:\Users\saika\source\repos\Linq\Linq\LinqDemo3\LinqDemo3\obj\Debug\LinqDemo3.pdb

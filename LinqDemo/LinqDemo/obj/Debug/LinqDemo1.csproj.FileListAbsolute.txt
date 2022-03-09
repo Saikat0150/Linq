@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\obj\Debug\LinqDemo1.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\obj\Debug\LinqDemo1.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\obj\Debug\LinqDemo.exe
+C:\Users\saika\source\repos\Linq\LinqDemo\LinqDemo\obj\Debug\LinqDemo.pdb
