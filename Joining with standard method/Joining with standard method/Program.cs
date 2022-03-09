@@ -35,7 +35,7 @@ namespace Joining_with_standard_method
             //                                            }
             //                                            );
 
-            //or
+            //or  -- Linq Query
             var innerJoin = from s in studentlist
                             join st in standardlist on s.StandardId equals st.StandardId
                             select new
