@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\bin\Debug\GroupBy operator.exe.config
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\bin\Debug\GroupBy operator.exe
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\bin\Debug\GroupBy operator.pdb
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\obj\Debug\GroupBy operator.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\obj\Debug\GroupBy operator.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\obj\Debug\GroupBy operator.exe
+C:\Users\saika\source\repos\Linq\Linq\GroupBy operator\GroupBy operator\obj\Debug\GroupBy operator.pdb
