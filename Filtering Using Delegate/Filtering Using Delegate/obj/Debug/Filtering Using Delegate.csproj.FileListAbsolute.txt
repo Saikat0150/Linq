@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\Filtering Using Delegate\Filtering Using Delegate\bin\Debug\Filtering Using Delegate.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Filtering Using Delegate\Filtering Using Delegate\bin\Debug\Filtering Using Delegate.exe
+C:\Users\saika\source\repos\Linq\Linq\Filtering Using Delegate\Filtering Using Delegate\bin\Debug\Filtering Using Delegate.pdb
+C:\Users\saika\source\repos\Linq\Linq\Filtering Using Delegate\Filtering Using Delegate\obj\Debug\Filtering Using Delegate.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Filtering Using Delegate\Filtering Using Delegate\obj\Debug\Filtering Using Delegate.exe
+C:\Users\saika\source\repos\Linq\Linq\Filtering Using Delegate\Filtering Using Delegate\obj\Debug\Filtering Using Delegate.pdb
