@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\GroupBy Extension Mehod\GroupBy Extension Mehod\bin\Debug\GroupBy Extension Mehod.exe.config
+C:\Users\saika\source\repos\Linq\Linq\GroupBy Extension Mehod\GroupBy Extension Mehod\bin\Debug\GroupBy Extension Mehod.exe
+C:\Users\saika\source\repos\Linq\Linq\GroupBy Extension Mehod\GroupBy Extension Mehod\bin\Debug\GroupBy Extension Mehod.pdb
+C:\Users\saika\source\repos\Linq\Linq\GroupBy Extension Mehod\GroupBy Extension Mehod\obj\Debug\GroupBy Extension Mehod.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\GroupBy Extension Mehod\GroupBy Extension Mehod\obj\Debug\GroupBy Extension Mehod.exe
+C:\Users\saika\source\repos\Linq\Linq\GroupBy Extension Mehod\GroupBy Extension Mehod\obj\Debug\GroupBy Extension Mehod.pdb
