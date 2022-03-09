@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\bin\Debug\Group Join.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\bin\Debug\Group Join.exe
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\bin\Debug\Group Join.pdb
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\obj\Debug\Group Join.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\obj\Debug\Group Join.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\obj\Debug\Group Join.exe
+C:\Users\saika\source\repos\Linq\Linq\Group Join\Group Join\obj\Debug\Group Join.pdb
