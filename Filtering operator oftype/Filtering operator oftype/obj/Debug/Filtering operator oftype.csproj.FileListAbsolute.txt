@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\bin\Debug\Filtering operator oftype.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\bin\Debug\Filtering operator oftype.exe
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\bin\Debug\Filtering operator oftype.pdb
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\obj\Debug\Filtering operator oftype.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\obj\Debug\Filtering operator oftype.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\obj\Debug\Filtering operator oftype.exe
+C:\Users\saika\source\repos\Linq\Linq\Filtering operator oftype\Filtering operator oftype\obj\Debug\Filtering operator oftype.pdb
