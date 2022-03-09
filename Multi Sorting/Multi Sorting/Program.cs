@@ -19,7 +19,7 @@ namespace Multi_Sorting
                 new Student(){ StudentID=5,StudentName="Ron",Age=19}
             };
             var multisortingResult = from s in studentlist orderby s.StudentName, s.Age select s;
-            foreach(var std in studentlist)
+            foreach(var std in multisortingResult)
             {
                 Console.WriteLine("Name: " + std.StudentName + " Age: " + std.Age);
             }
