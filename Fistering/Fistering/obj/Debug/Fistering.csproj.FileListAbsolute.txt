@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\bin\Debug\Fistering.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\bin\Debug\Fistering.exe
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\bin\Debug\Fistering.pdb
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\obj\Debug\Fistering.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\obj\Debug\Fistering.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\obj\Debug\Fistering.exe
+C:\Users\saika\source\repos\Linq\Linq\Fistering\Fistering\obj\Debug\Fistering.pdb
