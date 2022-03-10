@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\bin\Debug\Set Operator.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\bin\Debug\Set Operator.exe
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\bin\Debug\Set Operator.pdb
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\obj\Debug\Set Operator.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\obj\Debug\Set Operator.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\obj\Debug\Set Operator.exe
+C:\Users\saika\source\repos\Linq\Linq\Set Operator\Set Operator\obj\Debug\Set Operator.pdb
