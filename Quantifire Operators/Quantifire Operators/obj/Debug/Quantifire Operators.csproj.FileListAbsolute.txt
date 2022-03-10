@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\bin\Debug\Quantifire Operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\bin\Debug\Quantifire Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\bin\Debug\Quantifire Operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\obj\Debug\Quantifire Operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\obj\Debug\Quantifire Operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\obj\Debug\Quantifire Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Quantifire Operators\Quantifire Operators\obj\Debug\Quantifire Operators.pdb
