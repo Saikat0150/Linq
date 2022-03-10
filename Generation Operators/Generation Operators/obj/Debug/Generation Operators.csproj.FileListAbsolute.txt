@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\bin\Debug\Generation Operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\bin\Debug\Generation Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\bin\Debug\Generation Operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\obj\Debug\Generation Operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\obj\Debug\Generation Operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\obj\Debug\Generation Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Generation Operators\Generation Operators\obj\Debug\Generation Operators.pdb
