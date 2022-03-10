@@ -77,7 +77,7 @@ namespace Aggregation_Operators
             Console.WriteLine("Maximum Age of the students: " + maxAge);*/
 
             //----------------Sum Method
-            IList<int> intList = new List<int>() { 9, 2, 10, 5, 13, 12, 8 };
+            /*IList<int> intList = new List<int>() { 9, 2, 10, 5, 13, 12, 8 };
             var sumElement = intList.Sum();
             Console.WriteLine("Sum of the elements: " + sumElement);
             var evenSum = intList.Sum(s => { if (s % 2 == 0)   
@@ -86,8 +86,27 @@ namespace Aggregation_Operators
                                                 }
                                                 return 0;
                                             });
-            Console.WriteLine("Sum of the even Elements: " + evenSum);
-
+            Console.WriteLine("Sum of the even Elements: " + evenSum);*/
+            //----------------------------
+            IList<Student> studentList = new List<Student>() {
+            new Student() { StudentID = 1, StudentName = "John", Age = 13 } ,
+            new Student() { StudentID = 2, StudentName = "Moin",  Age = 21 } ,
+            new Student() { StudentID = 3, StudentName = "Bill",  Age = 18 } ,
+            new Student() { StudentID = 4, StudentName = "Ram" , Age = 20 } ,
+            new Student() { StudentID = 5, StudentName = "Ron" , Age = 15 }
+            };
+            var sumAge = studentList.Sum(s => s.Age); // or (from s in studentList select s.Age).Max();
+            Console.WriteLine("Maximum Age of the students: " + sumAge);
+            var sumTeen = studentList.Sum(s =>
+            {
+                if (s.Age >= 18)
+                {
+                    return s.Age;
+                }
+                return 0;
+            });
+            Console.WriteLine("Sum of the Age who are greater than 18: " + sumAge);
+            
             Console.Read();
         }
     }
