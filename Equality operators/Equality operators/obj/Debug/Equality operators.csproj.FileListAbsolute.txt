@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\bin\Debug\Equality operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\bin\Debug\Equality operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\bin\Debug\Equality operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\obj\Debug\Equality operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\obj\Debug\Equality operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\obj\Debug\Equality operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Equality operators\Equality operators\obj\Debug\Equality operators.pdb
