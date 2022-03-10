@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\bin\Debug\Concatination operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\bin\Debug\Concatination operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\bin\Debug\Concatination operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\obj\Debug\Concatination operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\obj\Debug\Concatination operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\obj\Debug\Concatination operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Concatination operators\Concatination operators\obj\Debug\Concatination operators.pdb
