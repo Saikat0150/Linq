@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LinqDemo 3")]
+[assembly: AssemblyTitle("Quantifire Operators")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LinqDemo 3")]
+[assembly: AssemblyProduct("Quantifire Operators")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dfd53c1c-8906-4ced-bd91-c979ec207739")]
+[assembly: Guid("3ec73802-15ff-463f-9d7f-0f6d8c6f021c")]
 
 // Version information for an assembly consists of the following four values:
 //

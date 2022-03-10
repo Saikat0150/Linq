@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DFD53C1C-8906-4CED-BD91-C979EC207739}</ProjectGuid>
+    <ProjectGuid>{3EC73802-15FF-463F-9D7F-0F6D8C6F021C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LinqDemo_3</RootNamespace>
-    <AssemblyName>LinqDemo 3</AssemblyName>
+    <RootNamespace>Quantifire_Operators</RootNamespace>
+    <AssemblyName>Quantifire Operators</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
