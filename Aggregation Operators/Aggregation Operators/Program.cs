@@ -52,7 +52,7 @@ namespace Aggregation_Operators
             Console.WriteLine(totalAge);*/
 
             //--------Max Method
-            IList<int> intList = new List<int>() { 9, 2, 10, 5, 13, 12, 8 };
+            /*IList<int> intList = new List<int>() { 9, 2, 10, 5, 13, 12, 8 };
             var maxElement = intList.Max();
             var maxEven = intList.Max(i =>
                                             {
@@ -64,7 +64,29 @@ namespace Aggregation_Operators
                                             });
                                             // or intList.Where(s => s % 2 == 0).Max(); // or (from s in intList select s).Where(i => i % 2 == 0).Max();
             Console.WriteLine("The max Element is: " + maxElement);
-            Console.WriteLine("Even max Element is: " + maxEven);
+            Console.WriteLine("Even max Element is: " + maxEven);*/
+            //----------------------
+            /*IList<Student> studentList = new List<Student>() {
+            new Student() { StudentID = 1, StudentName = "John", Age = 13 } ,
+            new Student() { StudentID = 2, StudentName = "Moin",  Age = 21 } ,
+            new Student() { StudentID = 3, StudentName = "Bill",  Age = 18 } ,
+            new Student() { StudentID = 4, StudentName = "Ram" , Age = 20 } ,
+            new Student() { StudentID = 5, StudentName = "Ron" , Age = 15 }
+            };
+            var maxAge = studentList.Max(s=>s.Age); // or (from s in studentList select s.Age).Max();
+            Console.WriteLine("Maximum Age of the students: " + maxAge);*/
+
+            //----------------Sum Method
+            IList<int> intList = new List<int>() { 9, 2, 10, 5, 13, 12, 8 };
+            var sumElement = intList.Sum();
+            Console.WriteLine("Sum of the elements: " + sumElement);
+            var evenSum = intList.Sum(s => { if (s % 2 == 0)   
+                                                {
+                                                    return s; 
+                                                }
+                                                return 0;
+                                            });
+            Console.WriteLine("Sum of the even Elements: " + evenSum);
 
             Console.Read();
         }
