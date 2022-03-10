@@ -27,6 +27,7 @@ namespace Select
 				Console.WriteLine("Student Name: {0}, Age: {1}", item.Name, item.Age);
 			Console.Read();*/
 
+
 			//-------Select Method Syntax
 			var selectResult = studentList.Select(s => new { Name = s.StudentName, Age = s.Age });
 
