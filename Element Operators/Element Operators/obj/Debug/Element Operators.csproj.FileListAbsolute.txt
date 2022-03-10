@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\bin\Debug\Element Operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\bin\Debug\Element Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\bin\Debug\Element Operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\obj\Debug\Element Operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\obj\Debug\Element Operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\obj\Debug\Element Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Element Operators\Element Operators\obj\Debug\Element Operators.pdb
