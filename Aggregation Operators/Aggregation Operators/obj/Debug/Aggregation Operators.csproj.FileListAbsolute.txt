@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\bin\Debug\Aggregation Operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\bin\Debug\Aggregation Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\bin\Debug\Aggregation Operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\obj\Debug\Aggregation Operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\obj\Debug\Aggregation Operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\obj\Debug\Aggregation Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Aggregation Operators\Aggregation Operators\obj\Debug\Aggregation Operators.pdb
