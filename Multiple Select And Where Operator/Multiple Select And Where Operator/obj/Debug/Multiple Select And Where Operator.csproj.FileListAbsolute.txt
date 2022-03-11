@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\bin\Debug\Multiple Select And Where Operator.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\bin\Debug\Multiple Select And Where Operator.exe
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\bin\Debug\Multiple Select And Where Operator.pdb
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\obj\Debug\Multiple Select And Where Operator.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\obj\Debug\Multiple Select And Where Operator.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\obj\Debug\Multiple Select And Where Operator.exe
+C:\Users\saika\source\repos\Linq\Linq\Multiple Select And Where Operator\Multiple Select And Where Operator\obj\Debug\Multiple Select And Where Operator.pdb
