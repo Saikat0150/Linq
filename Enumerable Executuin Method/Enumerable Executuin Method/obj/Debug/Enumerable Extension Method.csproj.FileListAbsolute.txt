@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\Enumerable Executuin Method\Enumerable Executuin Method\obj\Debug\Enumerable Extension Method.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Enumerable Executuin Method\Enumerable Executuin Method\bin\Debug\Enumerable Executuin Method.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Enumerable Executuin Method\Enumerable Executuin Method\bin\Debug\Enumerable Executuin Method.exe
+C:\Users\saika\source\repos\Linq\Linq\Enumerable Executuin Method\Enumerable Executuin Method\bin\Debug\Enumerable Executuin Method.pdb
+C:\Users\saika\source\repos\Linq\Linq\Enumerable Executuin Method\Enumerable Executuin Method\obj\Debug\Enumerable Executuin Method.exe
+C:\Users\saika\source\repos\Linq\Linq\Enumerable Executuin Method\Enumerable Executuin Method\obj\Debug\Enumerable Executuin Method.pdb
