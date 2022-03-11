@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBy Operators", "GroupBy Operators\GroupBy Operators.csproj", "{A367C17B-E001-453C-89CC-0D1C8A4D523D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A367C17B-E001-453C-89CC-0D1C8A4D523D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A367C17B-E001-453C-89CC-0D1C8A4D523D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A367C17B-E001-453C-89CC-0D1C8A4D523D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A367C17B-E001-453C-89CC-0D1C8A4D523D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F9D7F4-5E19-43F7-AF83-E7CA9BAA6E91}
+	EndGlobalSection
+EndGlobal
