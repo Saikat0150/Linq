@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\bin\Debug\OrderBy Operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\bin\Debug\OrderBy Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\bin\Debug\OrderBy Operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\obj\Debug\OrderBy Operators.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\obj\Debug\OrderBy Operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\obj\Debug\OrderBy Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\OrderBy Operators\OrderBy Operators\obj\Debug\OrderBy Operators.pdb
