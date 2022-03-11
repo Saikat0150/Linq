@@ -1,0 +1,6 @@
+C:\Users\saika\source\repos\Linq\Linq\Expression Operators\Expression Operators\bin\Debug\Expression Operators.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Expression Operators\Expression Operators\bin\Debug\Expression Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Expression Operators\Expression Operators\bin\Debug\Expression Operators.pdb
+C:\Users\saika\source\repos\Linq\Linq\Expression Operators\Expression Operators\obj\Debug\Expression Operators.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Expression Operators\Expression Operators\obj\Debug\Expression Operators.exe
+C:\Users\saika\source\repos\Linq\Linq\Expression Operators\Expression Operators\obj\Debug\Expression Operators.pdb
