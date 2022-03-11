@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\bin\Debug\Inner Joining.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\bin\Debug\Inner Joining.exe
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\bin\Debug\Inner Joining.pdb
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\obj\Debug\Inner Joining.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\obj\Debug\Inner Joining.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\obj\Debug\Inner Joining.exe
+C:\Users\saika\source\repos\Linq\Linq\Inner Joining\Inner Joining\obj\Debug\Inner Joining.pdb
