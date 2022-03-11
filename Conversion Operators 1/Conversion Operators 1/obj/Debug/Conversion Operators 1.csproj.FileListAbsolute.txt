@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\bin\Debug\Conversion Operators 1.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\bin\Debug\Conversion Operators 1.exe
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\bin\Debug\Conversion Operators 1.pdb
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\obj\Debug\Conversion Operators 1.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\obj\Debug\Conversion Operators 1.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\obj\Debug\Conversion Operators 1.exe
+C:\Users\saika\source\repos\Linq\Linq\Conversion Operators 1\Conversion Operators 1\obj\Debug\Conversion Operators 1.pdb
