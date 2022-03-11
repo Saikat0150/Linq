@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\bin\Debug\Deffered Execution.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\bin\Debug\Deffered Execution.exe
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\bin\Debug\Deffered Execution.pdb
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\obj\Debug\Deffered Execution.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\obj\Debug\Deffered Execution.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\obj\Debug\Deffered Execution.exe
+C:\Users\saika\source\repos\Linq\Linq\Deffered Execution\Deffered Execution\obj\Debug\Deffered Execution.pdb
