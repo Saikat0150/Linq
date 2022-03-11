@@ -1,0 +1,7 @@
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\bin\Debug\Into KeyWord.exe.config
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\bin\Debug\Into KeyWord.exe
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\bin\Debug\Into KeyWord.pdb
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\obj\Debug\Into KeyWord.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\obj\Debug\Into KeyWord.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\obj\Debug\Into KeyWord.exe
+C:\Users\saika\source\repos\Linq\Linq\Into KeyWord\Into KeyWord\obj\Debug\Into KeyWord.pdb
